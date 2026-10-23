@@ -1,0 +1,15 @@
+# середовище
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# налаштування PyCharm
+.idea/
+
+# дані та результати
+data/
+landmarks.csv
+models/
+output.txt
+confusion_matrix.png
